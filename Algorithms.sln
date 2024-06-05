@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{CAFD622B-2B54-4114-AD1A-EF23347D94D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{F2F556EC-8927-4B01-892B-3EC1EC6E133E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsTests", "AlgorithmsTests\AlgorithmsTests.csproj", "{235BFBAB-7064-420F-BE06-9D814988035E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFD622B-2B54-4114-AD1A-EF23347D94D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFD622B-2B54-4114-AD1A-EF23347D94D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFD622B-2B54-4114-AD1A-EF23347D94D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFD622B-2B54-4114-AD1A-EF23347D94D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235BFBAB-7064-420F-BE06-9D814988035E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235BFBAB-7064-420F-BE06-9D814988035E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235BFBAB-7064-420F-BE06-9D814988035E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235BFBAB-7064-420F-BE06-9D814988035E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
